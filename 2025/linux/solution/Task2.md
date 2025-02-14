@@ -1,4 +1,4 @@
-This is my submission for Linux Shell Scripting Challenge 
+This is my submission for Week-2 Challenge
 Why Linux Fundamentals & Shell Scripting Are Essential for DevOps & SRE Engineers! 💻
 
 In the fast-evolving world of cloud computing, DevOps, and Site Reliability Engineering (SRE), there are a few core skills that set top engineers apart. Linux fundamentals and Shell scripting are at the heart of reliability, automation, and efficiency.
