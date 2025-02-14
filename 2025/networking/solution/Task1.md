@@ -1,5 +1,5 @@
-This is my submission for Week-1 Challenge
-
+This is my submission for Week-1 Challenge - The OSI Model
+ 
 🚀 Mastering Networking & the OSI Model for DevOps Engineers 🔍
 
 Networking is the silent hero behind scalable apps, CI/CD pipelines, and secure deployments. Whether automating infrastructure, deploying containers, or troubleshooting—understanding networking is a superpower 💡.
